@@ -24,7 +24,7 @@ Circuit
 ---
 
 |PIN|Type|Destination|
-|--|--|--|
+|---|---|---|
 |6|Ground|Ground 1|
 |8, 10, 12|Outputs|LED 1, 2, 3|
 |14|Ground|Ground 2|
